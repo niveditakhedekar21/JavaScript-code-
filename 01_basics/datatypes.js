@@ -28,3 +28,6 @@ console.log(typeof null);//output object
 
 console.log("nivedia")
 console.log("newly added code i just want to make commit and push command on github")
+
+
+console.log("today i am plannimng for study in JS");
